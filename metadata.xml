@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lom xmlns="http://ltsc.ieee.org/xsd/LOM" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:pkgprop="http://www.scorm.com/xsd/ScormEnginePackageProperties" xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM lomLoose.xsd http://www.scorm.com/xsd/ScormEnginePackageProperties ScormEnginePackageProperties.xsd">
+  <metametadata>
+    <metadataSchema>LOMv1.0</metadataSchema>
+    <metadataSchema>ADL SCORM 1.2</metadataSchema>
+    <identifier>
+      <catalog>URI</catalog>
+      <entry>com.H5PAuthor.Module1BrainwavesHypnotherapy.42cc9583-6e85-47a3-a7e8-20b9226cc7ce</entry>
+    </identifier>
+    <language>en-EN</language>
+    <contribute>
+      <role>
+        <source>LOMv1.0</source>
+        <value>Creator</value>
+      </role>
+      <entity>
+        <![CDATA[BEGIN:VCARD
+VERSION:2.1
+ORG:H5P Author
+END:VCARD  ]]>
+      </entity>
+      <date>
+        <dateTime>2021-07-06</dateTime>
+        <description language="en-EN">
+          <![CDATA[1624665639516]]>
+        </description>
+      </date>
+    </contribute>
+  </metametadata>
+  <general>
+    <identifier>
+      <catalog>URI</catalog>
+      <entry>com.H5PAuthor.Module1BrainwavesHypnotherapy.42cc9583-6e85-47a3-a7e8-20b9226cc7ce</entry>
+    </identifier>
+    <title>
+      <string language="en-EN">
+        <![CDATA[Module 1 Brainwaves Hypnotherapy]]>
+      </string>
+    </title>
+    <language>en-EN</language>
+    <description>
+      <string language="en-EN">
+        <![CDATA[]]>
+      </string>
+    </description>
+    <structure>
+      <source>LOMv1.0</source>
+      <value>atomic</value>
+    </structure>
+    <aggregationLevel>
+      <source>LOMv1.0</source>
+      <value>1</value>
+    </aggregationLevel>
+  </general>
+  <lifeCycle>
+    <version>
+      <string language="en-EN">1.0.0</string>
+    </version>
+    <status>
+      <source>LOMv1.0</source>
+      <value>final</value>
+    </status>
+    <contribute>
+      <entity>
+        <![CDATA[BEGIN:VCARD
+VERSION:2.1
+ORG:H5P Author
+END:VCARD  ]]>
+      </entity>
+      <date>
+        <dateTime>2021-07-06</dateTime>
+        <description language="en-EN">
+          <![CDATA[1624665639516]]>
+        </description>
+      </date>
+    </contribute>
+    <contribute>
+      <role>
+        <source>LOMv1.0</source>
+        <value>Author</value>
+      </role>
+      <entity>
+        <![CDATA[BEGIN:VCARD
+VERSION:2.1
+ORG:H5P Author
+END:VCARD  ]]>
+      </entity>
+      <date>
+        <dateTime>2021-07-06</dateTime>
+        <description language="en-EN">
+          <![CDATA[1624665639516]]>
+        </description>
+      </date>
+    </contribute>
+    <contribute>
+      <role>
+        <source>LOMv1.0</source>
+        <value>Publisher</value>
+      </role>
+      <entity>
+        <![CDATA[BEGIN:VCARD
+VERSION:2.1
+NOTE:version 1.0.0 
+ORG:H5P Author
+END:VCARD  ]]>
+      </entity>
+      <date>
+        <dateTime>2021-07-06</dateTime>
+        <description language="en-EN">
+          <![CDATA[1624665639516]]>
+        </description>
+      </date>
+    </contribute>
+    <contribute>
+      <role>
+        <source>LOMv1.0</source>
+        <value>Technical Implementer</value>
+      </role>
+      <entity>
+        <![CDATA[BEGIN:VCARD
+VERSION:2.1
+ORG:H5P Author
+END:VCARD  ]]>
+      </entity>
+      <date>
+        <dateTime>2021-07-06</dateTime>
+        <description language="en-EN">
+          <![CDATA[1624665639516]]>
+        </description>
+      </date>
+    </contribute>
+  </lifeCycle>
+  <technical>
+    <format>text/html</format>
+    <format>application/x-javascript</format>
+    <format>text/css</format>
+    <size/>
+    <location>index.html</location>
+    <duration>
+      <duration>PT0H0M0S</duration>
+      <description>
+        <string language="en-EN">
+          <![CDATA[Le temps qu'il faudra pour regarder l'ensemble du module du début à la fin.]]>
+        </string>
+      </description>
+    </duration>
+    <pkgprop:ScormEnginePackageProperties xmlns="http://www.scorm.com/xsd/ScormEnginePackageProperties">
+      <appearence>
+        <displayStage>
+          <desired>
+            <width>1280</width>
+            <height>720</height>
+            <fullscreen>yes</fullscreen>
+          </desired>
+          <required>
+            <width>640</width>
+            <height>480</height>
+            <fullscreen>no</fullscreen>
+          </required>
+        </displayStage>
+      </appearence>
+      <behavior>
+        <alwaysFlowToFirstSco>yes</alwaysFlowToFirstSco>
+        <rollupEmptySetToUnknown>yes</rollupEmptySetToUnknown>
+      </behavior>
+    </pkgprop:ScormEnginePackageProperties>
+  </technical>
+  <educational>
+    <typicalLearningTime>
+      <duration>PT0H0M0S</duration>
+      <description>
+        <string language="en-EN">
+          <![CDATA[Le temps moyen pour un apprenant pour terminer ce cours.]]>
+        </string>
+      </description>
+    </typicalLearningTime>
+    <description>
+      <string>
+        <![CDATA[]]>
+      </string>
+    </description>
+    <language>en-EN</language>
+  </educational>
+  <rights>
+    <copyrightAndOtherRestrictions>
+      <source>LOMv1.0</source>
+      <value>no</value>
+    </copyrightAndOtherRestrictions>
+    <description>
+      <string language="en-EN">
+        <![CDATA[Pourvu que-est; à utiliser uniquement à titre d'exemple.]]>
+      </string>
+    </description>
+  </rights>
+</lom>
